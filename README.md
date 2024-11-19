@@ -122,11 +122,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 
 ## Output screen shots of serial port utility   :
- 
- 
- ## Circuit board :
- 
- 
+![image](https://github.com/user-attachments/assets/a9ffa071-8789-46f8-8f4b-68cd7b5da968) 
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
